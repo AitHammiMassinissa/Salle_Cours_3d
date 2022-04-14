@@ -4,9 +4,9 @@
 
 ## Auteur(s)
 
-|Nom|Prénom|Année|Module|login|email|
-|--|--|--|--|--|--|
-| *Ait Hammi* | *Massinissa* | *M1 iWOCS* | *Infographie* |*am184100*|*massinissa.ait-hammi@etu.univ-lehavre.fr*
+|Nom|Prénom|Année|Module|email|
+|--|--|--|--|--|
+| *Ait Hammi* | *Massinissa* | *M1 iWOCS* | *Infographie* |*massinissaait2018@gmail.com*
 ## Plan
 
 * [Le Projet](#le-Projet)
